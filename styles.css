@@ -1,4 +1,30 @@
 body {
-    background-color: black;
-    color: green;
-  }
+  background-color: black;
+  color: green;
+}
+
+h1, p {
+  margin: 10px;
+}
+
+h1 {
+  color: #000000; 
+}
+
+.button-container {
+  background-color: #000000;
+  padding: 10px;
+}
+
+.button-container button {
+  background-color: #000000;
+  color: rgb(0, 180, 30);
+  border: none;
+  padding: 10px 20px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+body {
+  color: #000000; 
+}
